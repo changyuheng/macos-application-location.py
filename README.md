@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-pip install macos_application_location
+pip install macos-application-location
 ```
 
 ## Usage
