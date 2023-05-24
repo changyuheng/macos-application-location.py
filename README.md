@@ -1,5 +1,7 @@
 # macos-application-location.py
 
+This tiny module helps you to obtain the path of an Application (.app) on macOS.
+
 ## Installation
 
 ```sh
