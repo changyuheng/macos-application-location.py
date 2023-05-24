@@ -5,8 +5,8 @@ description = ""
 authors = ["Johann Chang <mr.changyuheng@gmail.com>"]
 license = "MPL-2.0"
 readme = "README.md"
-homepage = "https://github.com/changyuheng/macos-application-location"
-repository = "https://github.com/changyuheng/macos-application-location"
+homepage = "https://github.com/changyuheng/macos-application-location.py"
+repository = "https://github.com/changyuheng/macos-application-location.py"
 packages = [
     { include = "macos_application_location", from = "packages" },
 ]
