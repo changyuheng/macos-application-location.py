@@ -9,7 +9,7 @@ def get() -> pathlib.Path:
 
     p: pathlib.Path = pathlib.Path.cwd() / sys.argv[0]
 
-    if '.app/Contents/MacOS/' in p:
+    if '.app/Contents/MacOS/' in str(p):
         p = p.parent.parent.parent
 
     return p
