@@ -18,3 +18,7 @@ import macos_application_location
 
 app_path: pathlib.Path = macos_application_location.get()
 ```
+
+## Reference
+
+1. [App Translocation Notes](https://developer.apple.com/forums/thread/724969)
