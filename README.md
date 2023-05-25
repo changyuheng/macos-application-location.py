@@ -1,4 +1,4 @@
-# macos-application-location.py
+# macos-application-location
 
 This tiny package helps you to obtain the path of an Application (.app) that the current process is running from on macOS.
 
